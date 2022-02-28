@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BtEmoji</string>
+    <string name="resultWin">THẮNG !</string>
+    <string name="resultLose">THUA !</string>
+    <string name="contentWin">Tổng thời gian (giây)</string>
+    <string name="contentLose">Rất tiếc, thử lại</string>
+    <string name="tryAgain">Thử lại</string>
+    <string name="seconds">giây</string>
+</resources>
